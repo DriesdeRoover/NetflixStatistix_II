@@ -1,6 +1,6 @@
 # NetflixStatistix
 Avans Informatica - Programmeren II &amp; Databases II
-This Application is created by Dries de Roover and Wesley de Jonge (2144101) as a project
+This Application is created by Dries de Roover, Niek Hoppenbrouwers and Christan de Ruiter as a project
 for Avans Hogeschool Informatica courses Programmeren II and Relationele Databases II.
 
 This project has been made for educational purposes and the images used within belong to their respectfull owners.
